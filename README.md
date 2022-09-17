@@ -24,4 +24,9 @@ There were 94 Vine reviews and 40471 non-Vine reviews:
 
 ## Summary: 
 #### In your summary, state if there is any positivity bias for reviews in the Vine program. 
+
+It seems that there are no biases present for reviews in the Vine service. We can tell there are no biases because the percentage of 5-star ratings coming from paid Vine users makes up less than 1% of the total 5-star reviews. 99.77% of the 5-star reviews come from unpaid Vine users.
+
 #### Then, provide one additional analysis that you could do with the dataset to support your statement.
+
+If we wanted to, we could examine how many reviews are left by each paid vine user versus each unpaid vine user. This would give us some insight as to the frequency of reviews left, based on the Vine service.

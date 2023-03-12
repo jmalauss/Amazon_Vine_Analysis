@@ -10,13 +10,13 @@ The purpose of this analysis was to understand if there are any biases in review
 
 There were 40565 Vine and non-Vine reviews:
 
-![Vine and Non Vine Reviews](https://github.com/jmalauss/Amazon_Vine_Analysis/blob/main/Vine%20and%20Non%20Vine%20Reviews.png)
+![Vine and Non Vine Reviews](https://github.com/jmalauss/Amazon_Vine_Analysis/blob/main/Resources/Vine%20and%20Non%20Vine%20Reviews.png)
 
 #### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
 There were 94 Vine reviews and 40471 non-Vine reviews:
 
-![Vine and Non Vine Review](https://github.com/jmalauss/Amazon_Vine_Analysis/blob/main/Vine%20and%20Non%20Vine%20Reviews.png)
+![Vine and Non Vine Review](https://github.com/jmalauss/Amazon_Vine_Analysis/blob/main/Resources/5%20Star%20Percentages.png)
 
 #### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
